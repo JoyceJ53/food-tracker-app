@@ -15,7 +15,10 @@ Steps to build and/or run the software:
 
 Instructions for using the software:
 
-1. Follow step by step instructions within software
+1. Start the software
+2. Pick a user
+3. Choose an option
+4. Exit when ready
 
 ## Development Environment 
 
