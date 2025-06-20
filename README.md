@@ -1,10 +1,10 @@
 ## Overview
 
-**Project Title**:
+**Project Title**: Food Tracker App
 
-**Project Description**:
+**Project Description**: An app that allows you to track your food intake and calories
 
-**Project Goals**:
+**Project Goals**: I want to create an app that allows the user to track their food and calorie intake. I also want to learn more python and Sqlite and decided this would be a good place to start.
 
 ## Instructions for Build and Use
 
